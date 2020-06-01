@@ -58,7 +58,7 @@ Array.from(options).forEach((current) =>
 );
 
 // -------------------- Search mechanism --------------------------------------
-// waits when the user press "Enter" to capture the input value
+// waits until the user press "Enter" to capture the input value
 
 search.addEventListener("keydown", (event) => {
   if (event.key === "Enter") {
