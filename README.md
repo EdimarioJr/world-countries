@@ -3,6 +3,7 @@
 ## Welcome! 👋
 
 Site developed with HTML5,CSS3 and Javascript.
+![countries](https://user-images.githubusercontent.com/32523401/89216079-32ae7880-d5a0-11ea-9bf1-ddc90717b608.PNG)
 
 ## The challenge
 
@@ -15,5 +16,5 @@ The users should be able to:
 - Filter countries by region
 - Click on a country to see more detailed information on a separate page
 - Click through to the border countries on the detail page
-- Toggle the color scheme between light and dark mode *(optional)*
+- Toggle the color scheme between light and dark mode
 
